@@ -1,0 +1,7 @@
+C:\Users\hmzgn\source\repos\CSharpEgitimkapı\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\hmzgn\source\repos\CSharpEgitimkapı\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\hmzgn\source\repos\CSharpEgitimkapı\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\hmzgn\source\repos\CSharpEgitimkapı\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\hmzgn\source\repos\CSharpEgitimkapı\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\hmzgn\source\repos\CSharpEgitimkapı\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\hmzgn\source\repos\CSharpEgitimkapı\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
